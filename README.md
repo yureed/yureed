@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yureed Elahi
 ====================================================================================================================================
 
-An aspiring Data Scientist currently working as a Data Analyst
+An aspiring Data Scientist currently working as a Software Engineer
 --------------------------------------------------------------
 
 Hi! I'm Yureed Elahi, a Data Analyst on the path to becoming a Data Scientist. My journey in Computer Science and Mathematics from Forman Christian College in Lahore has been the backbone of my growing expertise in data analysis and sports analytics. My work has earned accolades such as “Analyst of the Month” for my impactful contributions while interning at FC Dinamo Tbilisi and innovative projects in data visualization and application development. I’m passionate about leveraging data to uncover insights that drive strategic decisions and enhance team performance. Check out my work and projects here on GitHub to see how I blend analysis with action!
